@@ -1,3 +1,8 @@
+username for admin
+
+email : admin
+password : admin
+
 ###################
 What is CodeIgniter
 ###################
